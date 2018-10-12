@@ -1,0 +1,16 @@
+Builds/
+Temp/
+Library/
+UnityPackageManager/
+DMS_Data/
+/*.obj
+/*.csproj
+/*.vs
+/*.sln
+/*.suo
+/*.csproj
+/*.sln
+/*.apk
+/*.exe
+/*.dll
+/obj/Debug/*.cache
