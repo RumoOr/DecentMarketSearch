@@ -5,13 +5,11 @@ A advanced marketplace search app for Decentraland
 
 ## Getting Started
 
-Download latest release [here](https://github.com/RumoOr/DecentMarketSearch/releases/download/v1.0/DeventMarketSearch_v1.0.zip). Start `DMS.exe` to run the app.
+Download latest release [here](https://github.com/RumoOr/DecentMarketSearch/releases). Start `DMS.exe` to run the app.
 
 ## Usage
 
 The app provides some additional features to customize the search of decentraland parcels.
-
-### Filters
 
 You can filter results by:
 
@@ -20,8 +18,6 @@ You can filter results by:
 - District distance
 - Plaza distance
 - Hot (rating)
-
-### Order
 
 You can order results by:
 
@@ -39,11 +35,11 @@ The `Hot` value is calculated by multiple linear regression analysis.
 
 ## Built With
 
-* [Unity](https://unity3d.com/de) - The game engine
-* [Decentraland API](https://docs.decentraland.org/blockchain-interactions/api/) - The LAND API
-* [Accord.NET](https://github.com/accord-net/framework) - The multiple linear regression
+* [Unity](https://unity3d.com/de) - 2D game engine
+* [Decentraland API](https://docs.decentraland.org/blockchain-interactions/api/) - LAND API
+* [Accord.NET](https://github.com/accord-net/framework) - Multiple linear regression analysis
 
 ## Contribution
 
 Please report errors and bugs by opening a [new issue](https://github.com/RumoOr/DecentMarketSearch/issues/new).
-You can also write other ideas for rating auctions. Thank you for your contribution.
+You can also write your ideas for rating auctions. Thank you for your contribution.
